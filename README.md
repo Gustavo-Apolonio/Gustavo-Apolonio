@@ -1,16 +1,37 @@
-### Hi there 👋
+# ~ Bem-vindo ao meu perfil! ~
+## ~ Gustavo Apolonio ~
 
-<!--
-**Gustavo-Apolonio/Gustavo-Apolonio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ~ Sobre Mim ~
 
-Here are some ideas to get you started:
+- 🔭 Estou estudando no SENAI Suíço-Brasileiro
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Desenvolvendo habilidades em Java
+- 🤔 Estudo por conta própria Python (aceito todo tipo de ajuda)
+
+### ~ Algumas habilidades ~
+
+- 📚 Sempre em busca de novos conhecimentos
+  - 🕑 Meu último feito, iniciei os estudos em Python
+- 📣 Aprendo fácil, por organização e foco
+- 💼 Trabalho em grupo
+  - 🗣 Com um espírito de liderança nativo
+
+## ~ Minhas Estatísticas do GitHub ~
+
+[![Minhas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Gustavo-Apolonio&hide=prs&count_private=true&show_icons=true&theme=onedark)]()
+
+## ~ Principais Linguagens ~
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Apolonio&lang_count=10&theme=onedark)]()
+
+## ~ Tecnologias ~
+
+- C#
+
+  - .NET Framewok
+
+- HTML, CSS, JavaScript
+
+  - React Js
+
+  ** **
