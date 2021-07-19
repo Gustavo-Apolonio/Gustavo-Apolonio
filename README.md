@@ -1,12 +1,13 @@
 # ~ Bem-vindo ao meu perfil! ~
-## ~ Gustavo Apolonio ~
+## ~ Sobre Mim ~
 
-### ~ Sobre Mim ~
-
-- 🔭 Estou estudando no SENAI Suíço-Brasileiro
-
-- 🌱 Desenvolvendo habilidades em Java
-- 🤔 Estudo por conta própria Python (aceito todo tipo de ajuda)
+- Estudante - SENAI Suíço-Brasileiro e Ensino Médio (Noturno)
+- Desenvolvendo habilidades em Python
+- Atualmente em uma imersão de férias colocando em prática
+  - ReactJs
+  - NodeJs
+  - MongoDb
+  - Express
 
 ### ~ Algumas habilidades ~
 
@@ -22,7 +23,11 @@
 
 ## ~ Principais Linguagens ~
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Apolonio&lang_count=10&theme=onedark)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Apolonio&theme=onedark)]()
+
+## ~ Estatísticas via Wakatime ~
+
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GustavoApolonio&theme=onedark)]()
 
 ## ~ Tecnologias ~
 
@@ -30,8 +35,14 @@
 
   - .NET Framewok
 
-- HTML, CSS, JavaScript
+- JavaScript
 
-  - React Js
+  - ReactJs
+  - NodeJs
 
-  ** **
+- Banco de Dados
+
+  - MySql - SQL Server
+  - MongoDb (inicio dos estudos)
+
+---
