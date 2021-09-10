@@ -3,16 +3,15 @@
 
 - Estudante - SENAI Suíço-Brasileiro e Ensino Médio (Noturno)
 - Desenvolvendo habilidades em Python
-- Atualmente em uma imersão de férias colocando em prática
-  - ReactJs
-  - NodeJs
-  - MongoDb
-  - Express
+- Atualmente desenvolvendo o Tutorial de MVC da Microsoft colocando em prática
+  - C#
+  - ASP.NET
+  - MVC
 
 ### ~ Algumas habilidades ~
 
 - 📚 Sempre em busca de novos conhecimentos
-  - 🕑 Meu último feito, iniciei os estudos em Python
+  - 🕑 Meu último feito, desenvolvimento do Tutorial de MVC
 - 📣 Aprendo fácil, por organização e foco
 - 💼 Trabalho em grupo
   - 🗣 Com um espírito de liderança nativo
