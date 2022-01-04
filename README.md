@@ -1,18 +1,14 @@
 # ~ Bem-vindo ao meu perfil! ~
+
 ## ~ Sobre Mim ~
 
-- Estudante - SENAI Suíço-Brasileiro e Ensino Médio (Noturno)
-- Desenvolvendo habilidades em Python
-- Atualmente em uma imersão de férias colocando em prática
-  - ReactJs
-  - NodeJs
-  - MongoDb
-  - Express
+- Estudante - SENAI Suíço-Brasileiro (3DT - 3º Sem. em Técnico de Desenvolvimento de Sistemas)
+- Desenvolvendo habilidades em NodeJs
 
 ### ~ Algumas habilidades ~
 
 - 📚 Sempre em busca de novos conhecimentos
-  - 🕑 Meu último feito, iniciei os estudos em Python
+  - 🕑 Meu último feito, desenvolvimento de Web App em JavaScript (full-stack) -- [Tindev Factory Pattern](https://github.com/Gustavo-Apolonio/tindev-factory-pattern)
 - 📣 Aprendo fácil, por organização e foco
 - 💼 Trabalho em grupo
   - 🗣 Com um espírito de liderança nativo
