@@ -1,44 +1,30 @@
-# ~ Bem-vindo ao meu perfil! ~
+## Hey! 👋
 
-## ~ Sobre Mim ~
+I'm Gustavo, a 20 years old web developer from Brazil.
 
-- Estudante - SENAI Suíço-Brasileiro (3DT - 3º Sem. em Técnico de Desenvolvimento de Sistemas)
-- Desenvolvendo habilidades em NodeJs
+- 📚 Always open to learn something new
 
-### ~ Algumas habilidades ~
+- 👨‍💻 Working at [XP Investimentos](https://www.xpi.com.br/)
 
-- 📚 Sempre em busca de novos conhecimentos
-  - 🕑 Meu último feito, desenvolvimento de Web App em JavaScript (full-stack) -- [Tindev Factory Pattern](https://github.com/Gustavo-Apolonio/tindev-factory-pattern)
-- 📣 Aprendo fácil, por organização e foco
-- 💼 Trabalho em grupo
-  - 🗣 Com um espírito de liderança nativo
+- 🧭 Almost getting my first degree in college (in addition to my many certificates in technical courses)
 
-## ~ Minhas Estatísticas do GitHub ~
+- 👥 With teamwork, everything flows smoother ;)
 
-[![Minhas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Gustavo-Apolonio&hide=prs&count_private=true&show_icons=true&theme=onedark)]()
+* a lot more ;)
 
-## ~ Principais Linguagens ~
+## Skills
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Apolonio&theme=onedark)]()
+- 👨‍💻 TypeScript, JavaScript, C#, and others...
+- ⚙️ React, Angular, Vanilla
+- 👁️ SASS, CSS...
+- 💽 MySQL, SQL, Mongo -- little bit of everything hehe ;)
 
-## ~ Estatísticas via Wakatime ~
+* a lot more :D
 
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GustavoApolonio&theme=onedark)]()
+## Contact
 
-## ~ Tecnologias ~
+- ✉️ [gustavo.apolonio.nascimento@gmail.com](gustavo.apolonio.nascimento@gmail.com)
+- 💼 [Gustavo Apolonio](https://www.linkedin.com/in/gustavo-apolonio/?locale=en_US) on LinkedIn
+- [Find me here too]('#') ;)
 
-- C#
-
-  - .NET Framewok
-
-- JavaScript
-
-  - ReactJs
-  - NodeJs
-
-- Banco de Dados
-
-  - MySql - SQL Server
-  - MongoDb (inicio dos estudos)
-
----
+### Hope to see and talk to you soon | C y'all <3
