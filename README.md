@@ -1,6 +1,6 @@
 ## Hey! 👋
 
-I'm Gustavo, a 20 years old web developer from Brazil.
+I'm Gustavo, a 21 years old web developer from Brazil.
 
 - 📚 Always open to learn something new
 
